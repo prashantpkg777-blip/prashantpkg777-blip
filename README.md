@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A 1st year B.Tech student in Computer Science (CSE) | Aspiring Cyber Security Engineer 🔐</h3>
 
-<!-- 👇 Updated Coding GIF -->
 <img align="right" alt="Cyber Security" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpkg777-blip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prashantpkg777-blip&label=Profile%20views&color=00b4d8&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/prashantpkg777-blip?label=Followers&style=flat-square&color=0077b6"/>
+  <img src="https://img.shields.io/github/stars/prashantpkg777-blip?label=Stars&style=flat-square&color=00b4d8"/>
+</p>
 
 ---
 
@@ -19,9 +22,9 @@
 ---
 
 ### 🛠️ My Projects:
-- 🎮 [Stone Paper Scissors Game](https://github.com/prashantpkg777-blip/stone-paper-scissors)
-- 🔢 [Number Guesser Game](https://github.com/prashantpkg777-blip/number-guesser)
-- 🐍 [Snake Game](https://github.com/prashantpkg777-blip/snake-game)
+- 🎮 [Stone Paper Scissors Game](https://github.com/prashantpkg777-blip/C-language-with-Problems-and-Projects/tree/main/PROJECT_2)
+- 🔢 [Number Guesser Game](https://github.com/prashantpkg777-blip/C-language-with-Problems-and-Projects/tree/main/PROJECT_1)
+- 🐍 [Snake Game](https://github.com/prashantpkg777-blip/C-language-with-Problems-and-Projects/tree/main/PROJECT_3)
 
 ---
 
@@ -61,39 +64,50 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
 </a> 
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
+</a> 
+  
 </p>
 
 ---
 
-### 🏆 My GitHub Achievements:
+### 🏆 GitHub Achievements:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashantpkg777-blip&theme=tokyonight&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prashantpkg777-blip&theme=flat&no-frame=false&margin-w=15&no-bg=true&column=6&title=Stars,Followers,Commit,Repo,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpkg777-blip&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantpkg777-blip&show_icons=true&theme=transparent&border_color=4A90E2&hide_border=false&rank_icon=github&card_width=450" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpkg777-blip&layout=compact&theme=transparent&border_color=4A90E2&hide_border=false&card_width=340" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantpkg777-blip&theme=transparent&border=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&hide_border=false" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantpkg777-blip&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+---
 
+### 🌈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantpkg777-blip&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantpkg777-blip&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantpkg777-blip&bg_color=ffffff&color=0e75b6&line=4A90E2&point=1e90ff&area=true&radius=10&hide_border=false" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🐍 My Python Progress:
+### 🐍 My Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prashantpkg777-blip/prashantpkg777-blip/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🧠 Python & Linux Journey:
 ![Python Badge](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)
-![Learning Badge](https://img.shields.io/badge/Learning%20Next-Linux%20%26%20Networking-orange?style=flat-square)
+![Linux Badge](https://img.shields.io/badge/Linux%20Learner-yellow?logo=linux&logoColor=black)
+![Networking Badge](https://img.shields.io/badge/Networking-Studying-orange?style=flat-square)
 
 ---
 
@@ -101,4 +115,7 @@
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 <p align="center">If you like my work, please star my repositories 💖</p>
-
+<!-- Animated Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer"/>
+</div>
